@@ -1,2 +1,2 @@
 # LOFLCS
-A client selection framework grounded in Lyapunov optimization
+The code is coming soon.
